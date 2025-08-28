@@ -1,6 +1,6 @@
 # How to Contribute to the JUDGE👇
 
-## Simply Update your Gensyn Node👇
+## All You Need to do is Update your Gensyn Node👇
 
 ### If your Node is running, then Goto Logs and stop it using " Ctrl + C" 
 
@@ -23,3 +23,7 @@ git pull origin main
 ***⚠️Would you like to participate in the AI Prediction Market? (Y/n)***
 
 ### You'll be entered into the prediction market by default, by pressing ENTER or answering Y
+
+
+## Join TG For Updates : https://t.me/kind_cr
+## Follow on X : https://x.com/armaanbhat201
