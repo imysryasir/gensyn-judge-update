@@ -17,6 +17,15 @@ git pull origin main
 ```
 
 ## Now Run Your node and Join Judge👇
+```
+cd rl-swarm
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+./run_rl_swarm.sh
+```
 
 ### During setup, you'll be asked if you'd like to participate in the AI Prediction Market.
 
